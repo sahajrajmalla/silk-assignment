@@ -1,0 +1,741 @@
+[
+    {
+        "label": "streamlit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "streamlit",
+        "description": "streamlit",
+        "detail": "streamlit",
+        "documentation": {}
+    },
+    {
+        "label": "IsolationForest",
+        "importPath": "sklearn.ensemble",
+        "description": "sklearn.ensemble",
+        "isExtraImport": true,
+        "detail": "sklearn.ensemble",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "BytesIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "pydeck",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pydeck",
+        "description": "pydeck",
+        "detail": "pydeck",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "load_data",
+        "importPath": "utils.data_loader",
+        "description": "utils.data_loader",
+        "isExtraImport": true,
+        "detail": "utils.data_loader",
+        "documentation": {}
+    },
+    {
+        "label": "render_map",
+        "importPath": "utils.map_visualization",
+        "description": "utils.map_visualization",
+        "isExtraImport": true,
+        "detail": "utils.map_visualization",
+        "documentation": {}
+    },
+    {
+        "label": "detect_anomalies",
+        "importPath": "utils.anomaly_detection",
+        "description": "utils.anomaly_detection",
+        "isExtraImport": true,
+        "detail": "utils.anomaly_detection",
+        "documentation": {}
+    },
+    {
+        "label": "export_data",
+        "importPath": "utils.export_data",
+        "description": "utils.export_data",
+        "isExtraImport": true,
+        "detail": "utils.export_data",
+        "documentation": {}
+    },
+    {
+        "label": "render_metrics",
+        "importPath": "utils.metrics",
+        "description": "utils.metrics",
+        "isExtraImport": true,
+        "detail": "utils.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "render_trends",
+        "importPath": "utils.trends",
+        "description": "utils.trends",
+        "isExtraImport": true,
+        "detail": "utils.trends",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "HEADERS",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "BATCH_SIZE",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "CROWDSTRIKE_URL",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "QUALYS_URL",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "CROWDSTRIKE_COLLECTION",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "QUALYS_COLLECTION",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "MONGO_URI",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "DB_NAME",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "normalize_to_single_table",
+        "importPath": "utils",
+        "description": "utils",
+        "isExtraImport": true,
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_data_from_api",
+        "importPath": "api_client",
+        "description": "api_client",
+        "isExtraImport": true,
+        "detail": "api_client",
+        "documentation": {}
+    },
+    {
+        "label": "get_mongo_client",
+        "importPath": "mongodb_operations",
+        "description": "mongodb_operations",
+        "isExtraImport": true,
+        "detail": "mongodb_operations",
+        "documentation": {}
+    },
+    {
+        "label": "get_mongo_collection",
+        "importPath": "mongodb_operations",
+        "description": "mongodb_operations",
+        "isExtraImport": true,
+        "detail": "mongodb_operations",
+        "documentation": {}
+    },
+    {
+        "label": "create_unique_index",
+        "importPath": "mongodb_operations",
+        "description": "mongodb_operations",
+        "isExtraImport": true,
+        "detail": "mongodb_operations",
+        "documentation": {}
+    },
+    {
+        "label": "process_and_merge_data",
+        "importPath": "data_processing",
+        "description": "data_processing",
+        "isExtraImport": true,
+        "detail": "data_processing",
+        "documentation": {}
+    },
+    {
+        "label": "MongoClient",
+        "importPath": "pymongo",
+        "description": "pymongo",
+        "isExtraImport": true,
+        "detail": "pymongo",
+        "documentation": {}
+    },
+    {
+        "label": "errors",
+        "importPath": "pymongo",
+        "description": "pymongo",
+        "isExtraImport": true,
+        "detail": "pymongo",
+        "documentation": {}
+    },
+    {
+        "label": "detect_anomalies",
+        "kind": 2,
+        "importPath": "streamlit.utils.anomaly_detection",
+        "description": "streamlit.utils.anomaly_detection",
+        "peekOfCode": "def detect_anomalies(data):\n    st.title(\"Anomaly Detection in Vulnerabilities\")\n    numeric_columns = data.select_dtypes(include=[np.number]).columns\n    if numeric_columns.empty:\n        st.warning(\"No numeric columns available for anomaly detection.\")\n        return\n    selected_col = st.selectbox(\"Select column for anomaly detection\", numeric_columns)\n    contamination = st.slider(\"Select contamination level\", 0.01, 0.1, 0.05)\n    model = IsolationForest(contamination=contamination, random_state=42)\n    data['anomaly'] = model.fit_predict(data[[selected_col]])",
+        "detail": "streamlit.utils.anomaly_detection",
+        "documentation": {}
+    },
+    {
+        "label": "load_data",
+        "kind": 2,
+        "importPath": "streamlit.utils.data_loader",
+        "description": "streamlit.utils.data_loader",
+        "peekOfCode": "def load_data():\n    df = pd.read_csv(\"final_normal_df.csv\", parse_dates=['vuln_list_0_HostAssetVuln_lastFound'])\n    return df",
+        "detail": "streamlit.utils.data_loader",
+        "documentation": {}
+    },
+    {
+        "label": "export_data",
+        "kind": 2,
+        "importPath": "streamlit.utils.export_data",
+        "description": "streamlit.utils.export_data",
+        "peekOfCode": "def export_data(data):\n    st.title(\"Export Data\")\n    csv_data = data.to_csv(index=False).encode('utf-8')\n    st.download_button(\n        label=\"Download Data as CSV\",\n        data=csv_data,\n        file_name=\"vulnerabilities_data.csv\",\n        mime=\"text/csv\",\n    )",
+        "detail": "streamlit.utils.export_data",
+        "documentation": {}
+    },
+    {
+        "label": "render_map",
+        "kind": 2,
+        "importPath": "streamlit.utils.map_visualization",
+        "description": "streamlit.utils.map_visualization",
+        "peekOfCode": "def render_map(data):\n    st.title(\"Geographical Map of Vulnerabilities\")\n    # Ensure the required columns exist\n    if 'agentInfo_locationGeoLatitude' in data.columns and 'agentInfo_locationGeoLongtitude' in data.columns:\n        # Convert latitude and longitude to numeric, handling errors gracefully\n        data['agentInfo_locationGeoLatitude'] = pd.to_numeric(data['agentInfo_locationGeoLatitude'], errors='coerce')\n        data['agentInfo_locationGeoLongtitude'] = pd.to_numeric(data['agentInfo_locationGeoLongtitude'], errors='coerce')\n        # Drop rows with missing or invalid lat/long values\n        map_data = data.dropna(subset=['agentInfo_locationGeoLatitude', 'agentInfo_locationGeoLongtitude'])\n        # Ensure lat/long values are within valid ranges",
+        "detail": "streamlit.utils.map_visualization",
+        "documentation": {}
+    },
+    {
+        "label": "render_metrics",
+        "kind": 2,
+        "importPath": "streamlit.utils.metrics",
+        "description": "streamlit.utils.metrics",
+        "peekOfCode": "def render_metrics(data):\n    st.title(\"Advanced Metrics and Insights\")\n    if 'vuln_list_0_HostAssetVuln_lastFound' in data.columns:\n        st.subheader(\"Vulnerability Aging Analysis\")\n        # Ensure datetime formats are consistent\n        current_date = datetime.utcnow()\n        data['vuln_list_0_HostAssetVuln_lastFound'] = data['vuln_list_0_HostAssetVuln_lastFound'].dt.tz_localize(None)\n        # Calculate vulnerability age in days\n        data['vulnerability_age_days'] = (current_date - data['vuln_list_0_HostAssetVuln_lastFound']).dt.days\n        # Categorize vulnerabilities by age",
+        "detail": "streamlit.utils.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "render_trends",
+        "kind": 2,
+        "importPath": "streamlit.utils.trends",
+        "description": "streamlit.utils.trends",
+        "peekOfCode": "def render_trends(data):\n    st.title(\"Time-Based Vulnerability Trends\")\n    date_col = 'vuln_list_0_HostAssetVuln_lastFound'\n    if date_col in data.columns:\n        st.subheader(\"Number of Vulnerabilities Over Time\")\n        data[date_col] = pd.to_datetime(data[date_col])\n        trend_data = data.groupby(data[date_col].dt.to_period(\"M\")).size().to_timestamp()\n        st.line_chart(trend_data)",
+        "detail": "streamlit.utils.trends",
+        "documentation": {}
+    },
+    {
+        "label": "data",
+        "kind": 5,
+        "importPath": "streamlit.app",
+        "description": "streamlit.app",
+        "peekOfCode": "data = load_data()\n# Sidebar navigation\nst.sidebar.title(\"Navigation\")\ntabs = st.sidebar.radio(\"Go to\", [\"Overview\", \"Advanced Metrics\", \"Map Visualization\", \"Trend Analysis\", \"Anomaly Detection\", \"Export Data\"])\nst.sidebar.info(\"\"\"\nThis dashboard was developed by **Sahaj Raj Malla** for an assignment at [Institution Name].\n\"\"\")\n# Tab handling\nif tabs == \"Overview\":\n    st.title(\"Overview of Vulnerability Data\")",
+        "detail": "streamlit.app",
+        "documentation": {}
+    },
+    {
+        "label": "tabs",
+        "kind": 5,
+        "importPath": "streamlit.app",
+        "description": "streamlit.app",
+        "peekOfCode": "tabs = st.sidebar.radio(\"Go to\", [\"Overview\", \"Advanced Metrics\", \"Map Visualization\", \"Trend Analysis\", \"Anomaly Detection\", \"Export Data\"])\nst.sidebar.info(\"\"\"\nThis dashboard was developed by **Sahaj Raj Malla** for an assignment at [Institution Name].\n\"\"\")\n# Tab handling\nif tabs == \"Overview\":\n    st.title(\"Overview of Vulnerability Data\")\n    st.dataframe(data)\n    st.subheader(\"Basic Statistics\")\n    st.write(data.describe())",
+        "detail": "streamlit.app",
+        "documentation": {}
+    },
+    {
+        "label": "headers",
+        "kind": 5,
+        "importPath": "trail_and_error.logs.simple_scrape_crowdstrike",
+        "description": "trail_and_error.logs.simple_scrape_crowdstrike",
+        "peekOfCode": "headers = {\n    'accept': 'application/json',\n    'token': 'armis-login@armis.com_60974105-5053-4267-b16e-392e8165c89a',\n    'content-type': 'application/x-www-form-urlencoded',\n}\nbase_url = 'https://api.recruiting.app.silk.security/api/crowdstrike/hosts/get'\n# Pagination parameters\nbatch_size = 2\nskip = 0\n# Store fetched data",
+        "detail": "trail_and_error.logs.simple_scrape_crowdstrike",
+        "documentation": {}
+    },
+    {
+        "label": "base_url",
+        "kind": 5,
+        "importPath": "trail_and_error.logs.simple_scrape_crowdstrike",
+        "description": "trail_and_error.logs.simple_scrape_crowdstrike",
+        "peekOfCode": "base_url = 'https://api.recruiting.app.silk.security/api/crowdstrike/hosts/get'\n# Pagination parameters\nbatch_size = 2\nskip = 0\n# Store fetched data\nall_hosts = []\nwhile True:\n    # Set pagination parameters\n    params = {\n        'skip': skip,",
+        "detail": "trail_and_error.logs.simple_scrape_crowdstrike",
+        "documentation": {}
+    },
+    {
+        "label": "batch_size",
+        "kind": 5,
+        "importPath": "trail_and_error.logs.simple_scrape_crowdstrike",
+        "description": "trail_and_error.logs.simple_scrape_crowdstrike",
+        "peekOfCode": "batch_size = 2\nskip = 0\n# Store fetched data\nall_hosts = []\nwhile True:\n    # Set pagination parameters\n    params = {\n        'skip': skip,\n        'limit': batch_size,\n    }",
+        "detail": "trail_and_error.logs.simple_scrape_crowdstrike",
+        "documentation": {}
+    },
+    {
+        "label": "skip",
+        "kind": 5,
+        "importPath": "trail_and_error.logs.simple_scrape_crowdstrike",
+        "description": "trail_and_error.logs.simple_scrape_crowdstrike",
+        "peekOfCode": "skip = 0\n# Store fetched data\nall_hosts = []\nwhile True:\n    # Set pagination parameters\n    params = {\n        'skip': skip,\n        'limit': batch_size,\n    }\n    # Fetch data",
+        "detail": "trail_and_error.logs.simple_scrape_crowdstrike",
+        "documentation": {}
+    },
+    {
+        "label": "all_hosts",
+        "kind": 5,
+        "importPath": "trail_and_error.logs.simple_scrape_crowdstrike",
+        "description": "trail_and_error.logs.simple_scrape_crowdstrike",
+        "peekOfCode": "all_hosts = []\nwhile True:\n    # Set pagination parameters\n    params = {\n        'skip': skip,\n        'limit': batch_size,\n    }\n    # Fetch data\n    response = requests.post(base_url, params=params, headers=headers)\n    if response.status_code != 200:",
+        "detail": "trail_and_error.logs.simple_scrape_crowdstrike",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "trail_and_error.logs.simple_scrape_crowdstrike",
+        "description": "trail_and_error.logs.simple_scrape_crowdstrike",
+        "peekOfCode": "df = pd.DataFrame(all_hosts)\n# Save to CSV\noutput_file = \"crowdstrike_hosts.csv\"\ndf.to_csv(output_file, index=False)\nprint(f\"Data saved to {output_file}\")",
+        "detail": "trail_and_error.logs.simple_scrape_crowdstrike",
+        "documentation": {}
+    },
+    {
+        "label": "output_file",
+        "kind": 5,
+        "importPath": "trail_and_error.logs.simple_scrape_crowdstrike",
+        "description": "trail_and_error.logs.simple_scrape_crowdstrike",
+        "peekOfCode": "output_file = \"crowdstrike_hosts.csv\"\ndf.to_csv(output_file, index=False)\nprint(f\"Data saved to {output_file}\")",
+        "detail": "trail_and_error.logs.simple_scrape_crowdstrike",
+        "documentation": {}
+    },
+    {
+        "label": "headers",
+        "kind": 5,
+        "importPath": "trail_and_error.logs.simple_scrape_qualys",
+        "description": "trail_and_error.logs.simple_scrape_qualys",
+        "peekOfCode": "headers = {\n    'accept': 'application/json',\n    'token': 'armis-login@armis.com_60974105-5053-4267-b16e-392e8165c89a',\n    'content-type': 'application/x-www-form-urlencoded',\n}\nbase_url = 'https://api.recruiting.app.silk.security/api/qualys/hosts/get'\n# Pagination parameters\nbatch_size = 2\nskip = 0\n# Store fetched data",
+        "detail": "trail_and_error.logs.simple_scrape_qualys",
+        "documentation": {}
+    },
+    {
+        "label": "base_url",
+        "kind": 5,
+        "importPath": "trail_and_error.logs.simple_scrape_qualys",
+        "description": "trail_and_error.logs.simple_scrape_qualys",
+        "peekOfCode": "base_url = 'https://api.recruiting.app.silk.security/api/qualys/hosts/get'\n# Pagination parameters\nbatch_size = 2\nskip = 0\n# Store fetched data\nall_hosts = []\nwhile True:\n    # Set pagination parameters\n    params = {\n        'skip': skip,",
+        "detail": "trail_and_error.logs.simple_scrape_qualys",
+        "documentation": {}
+    },
+    {
+        "label": "batch_size",
+        "kind": 5,
+        "importPath": "trail_and_error.logs.simple_scrape_qualys",
+        "description": "trail_and_error.logs.simple_scrape_qualys",
+        "peekOfCode": "batch_size = 2\nskip = 0\n# Store fetched data\nall_hosts = []\nwhile True:\n    # Set pagination parameters\n    params = {\n        'skip': skip,\n        'limit': batch_size,\n    }",
+        "detail": "trail_and_error.logs.simple_scrape_qualys",
+        "documentation": {}
+    },
+    {
+        "label": "skip",
+        "kind": 5,
+        "importPath": "trail_and_error.logs.simple_scrape_qualys",
+        "description": "trail_and_error.logs.simple_scrape_qualys",
+        "peekOfCode": "skip = 0\n# Store fetched data\nall_hosts = []\nwhile True:\n    # Set pagination parameters\n    params = {\n        'skip': skip,\n        'limit': batch_size,\n    }\n    # Fetch data",
+        "detail": "trail_and_error.logs.simple_scrape_qualys",
+        "documentation": {}
+    },
+    {
+        "label": "all_hosts",
+        "kind": 5,
+        "importPath": "trail_and_error.logs.simple_scrape_qualys",
+        "description": "trail_and_error.logs.simple_scrape_qualys",
+        "peekOfCode": "all_hosts = []\nwhile True:\n    # Set pagination parameters\n    params = {\n        'skip': skip,\n        'limit': batch_size,\n    }\n    # Fetch data\n    response = requests.post(base_url, params=params, headers=headers)\n    if response.status_code != 200:",
+        "detail": "trail_and_error.logs.simple_scrape_qualys",
+        "documentation": {}
+    },
+    {
+        "label": "df",
+        "kind": 5,
+        "importPath": "trail_and_error.logs.simple_scrape_qualys",
+        "description": "trail_and_error.logs.simple_scrape_qualys",
+        "peekOfCode": "df = pd.DataFrame(all_hosts)\n# Save to CSV\noutput_file = \"qualys_hosts.csv\"\ndf.to_csv(output_file, index=False)\nprint(f\"Data saved to {output_file}\")",
+        "detail": "trail_and_error.logs.simple_scrape_qualys",
+        "documentation": {}
+    },
+    {
+        "label": "output_file",
+        "kind": 5,
+        "importPath": "trail_and_error.logs.simple_scrape_qualys",
+        "description": "trail_and_error.logs.simple_scrape_qualys",
+        "peekOfCode": "output_file = \"qualys_hosts.csv\"\ndf.to_csv(output_file, index=False)\nprint(f\"Data saved to {output_file}\")",
+        "detail": "trail_and_error.logs.simple_scrape_qualys",
+        "documentation": {}
+    },
+    {
+        "label": "fetch_data_from_api",
+        "kind": 2,
+        "importPath": "api_client",
+        "description": "api_client",
+        "peekOfCode": "def fetch_data_from_api(api_url, skip):\n    \"\"\"\n    Fetch data from the given API URL with pagination.\n    \"\"\"\n    params = {'skip': skip, 'limit': BATCH_SIZE}\n    response = requests.post(api_url, params=params, headers=HEADERS)\n    if response.status_code == 200:\n        return response.json()\n    else:\n        return []",
+        "detail": "api_client",
+        "documentation": {}
+    },
+    {
+        "label": "MONGO_URI",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "MONGO_URI = \"mongodb://localhost:27017/\"\nDB_NAME = \"host_data\"\nCROWDSTRIKE_COLLECTION = \"crowdstrike_hosts\"\nQUALYS_COLLECTION = \"qualys_hosts\"\n# API Configuration\nHEADERS = {\n    'accept': 'application/json',\n    'token': 'armis-login@armis.com_60974105-5053-4267-b16e-392e8165c89a',\n    'content-type': 'application/x-www-form-urlencoded',\n}",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "DB_NAME",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "DB_NAME = \"host_data\"\nCROWDSTRIKE_COLLECTION = \"crowdstrike_hosts\"\nQUALYS_COLLECTION = \"qualys_hosts\"\n# API Configuration\nHEADERS = {\n    'accept': 'application/json',\n    'token': 'armis-login@armis.com_60974105-5053-4267-b16e-392e8165c89a',\n    'content-type': 'application/x-www-form-urlencoded',\n}\n# API Endpoints",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "CROWDSTRIKE_COLLECTION",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "CROWDSTRIKE_COLLECTION = \"crowdstrike_hosts\"\nQUALYS_COLLECTION = \"qualys_hosts\"\n# API Configuration\nHEADERS = {\n    'accept': 'application/json',\n    'token': 'armis-login@armis.com_60974105-5053-4267-b16e-392e8165c89a',\n    'content-type': 'application/x-www-form-urlencoded',\n}\n# API Endpoints\nCROWDSTRIKE_URL = 'https://api.recruiting.app.silk.security/api/crowdstrike/hosts/get'",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "QUALYS_COLLECTION",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "QUALYS_COLLECTION = \"qualys_hosts\"\n# API Configuration\nHEADERS = {\n    'accept': 'application/json',\n    'token': 'armis-login@armis.com_60974105-5053-4267-b16e-392e8165c89a',\n    'content-type': 'application/x-www-form-urlencoded',\n}\n# API Endpoints\nCROWDSTRIKE_URL = 'https://api.recruiting.app.silk.security/api/crowdstrike/hosts/get'\nQUALYS_URL = 'https://api.recruiting.app.silk.security/api/qualys/hosts/get'",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "HEADERS",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "HEADERS = {\n    'accept': 'application/json',\n    'token': 'armis-login@armis.com_60974105-5053-4267-b16e-392e8165c89a',\n    'content-type': 'application/x-www-form-urlencoded',\n}\n# API Endpoints\nCROWDSTRIKE_URL = 'https://api.recruiting.app.silk.security/api/crowdstrike/hosts/get'\nQUALYS_URL = 'https://api.recruiting.app.silk.security/api/qualys/hosts/get'\n# Pagination parameters\nBATCH_SIZE = 1",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "CROWDSTRIKE_URL",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "CROWDSTRIKE_URL = 'https://api.recruiting.app.silk.security/api/crowdstrike/hosts/get'\nQUALYS_URL = 'https://api.recruiting.app.silk.security/api/qualys/hosts/get'\n# Pagination parameters\nBATCH_SIZE = 1",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "QUALYS_URL",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "QUALYS_URL = 'https://api.recruiting.app.silk.security/api/qualys/hosts/get'\n# Pagination parameters\nBATCH_SIZE = 1",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "BATCH_SIZE",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "BATCH_SIZE = 1",
+        "detail": "config",
+        "documentation": {}
+    },
+    {
+        "label": "MONGO_URI",
+        "kind": 5,
+        "importPath": "config_template",
+        "description": "config_template",
+        "peekOfCode": "MONGO_URI = \"mongodb://localhost:27017/\"\nDB_NAME = \"host_data\"\nCROWDSTRIKE_COLLECTION = \"crowdstrike_hosts\"\nQUALYS_COLLECTION = \"qualys_hosts\"\n# API Configuration\nHEADERS = {\n    'accept': 'application/json',\n    'token': '__API_TOKEN__',\n    'content-type': 'application/x-www-form-urlencoded',\n}",
+        "detail": "config_template",
+        "documentation": {}
+    },
+    {
+        "label": "DB_NAME",
+        "kind": 5,
+        "importPath": "config_template",
+        "description": "config_template",
+        "peekOfCode": "DB_NAME = \"host_data\"\nCROWDSTRIKE_COLLECTION = \"crowdstrike_hosts\"\nQUALYS_COLLECTION = \"qualys_hosts\"\n# API Configuration\nHEADERS = {\n    'accept': 'application/json',\n    'token': '__API_TOKEN__',\n    'content-type': 'application/x-www-form-urlencoded',\n}\n# API Endpoints",
+        "detail": "config_template",
+        "documentation": {}
+    },
+    {
+        "label": "CROWDSTRIKE_COLLECTION",
+        "kind": 5,
+        "importPath": "config_template",
+        "description": "config_template",
+        "peekOfCode": "CROWDSTRIKE_COLLECTION = \"crowdstrike_hosts\"\nQUALYS_COLLECTION = \"qualys_hosts\"\n# API Configuration\nHEADERS = {\n    'accept': 'application/json',\n    'token': '__API_TOKEN__',\n    'content-type': 'application/x-www-form-urlencoded',\n}\n# API Endpoints\nCROWDSTRIKE_URL = 'https://api.recruiting.app.silk.security/api/crowdstrike/hosts/get'",
+        "detail": "config_template",
+        "documentation": {}
+    },
+    {
+        "label": "QUALYS_COLLECTION",
+        "kind": 5,
+        "importPath": "config_template",
+        "description": "config_template",
+        "peekOfCode": "QUALYS_COLLECTION = \"qualys_hosts\"\n# API Configuration\nHEADERS = {\n    'accept': 'application/json',\n    'token': '__API_TOKEN__',\n    'content-type': 'application/x-www-form-urlencoded',\n}\n# API Endpoints\nCROWDSTRIKE_URL = 'https://api.recruiting.app.silk.security/api/crowdstrike/hosts/get'\nQUALYS_URL = 'https://api.recruiting.app.silk.security/api/qualys/hosts/get'",
+        "detail": "config_template",
+        "documentation": {}
+    },
+    {
+        "label": "HEADERS",
+        "kind": 5,
+        "importPath": "config_template",
+        "description": "config_template",
+        "peekOfCode": "HEADERS = {\n    'accept': 'application/json',\n    'token': '__API_TOKEN__',\n    'content-type': 'application/x-www-form-urlencoded',\n}\n# API Endpoints\nCROWDSTRIKE_URL = 'https://api.recruiting.app.silk.security/api/crowdstrike/hosts/get'\nQUALYS_URL = 'https://api.recruiting.app.silk.security/api/qualys/hosts/get'\n# Pagination parameters\nBATCH_SIZE = 1",
+        "detail": "config_template",
+        "documentation": {}
+    },
+    {
+        "label": "CROWDSTRIKE_URL",
+        "kind": 5,
+        "importPath": "config_template",
+        "description": "config_template",
+        "peekOfCode": "CROWDSTRIKE_URL = 'https://api.recruiting.app.silk.security/api/crowdstrike/hosts/get'\nQUALYS_URL = 'https://api.recruiting.app.silk.security/api/qualys/hosts/get'\n# Pagination parameters\nBATCH_SIZE = 1",
+        "detail": "config_template",
+        "documentation": {}
+    },
+    {
+        "label": "QUALYS_URL",
+        "kind": 5,
+        "importPath": "config_template",
+        "description": "config_template",
+        "peekOfCode": "QUALYS_URL = 'https://api.recruiting.app.silk.security/api/qualys/hosts/get'\n# Pagination parameters\nBATCH_SIZE = 1",
+        "detail": "config_template",
+        "documentation": {}
+    },
+    {
+        "label": "BATCH_SIZE",
+        "kind": 5,
+        "importPath": "config_template",
+        "description": "config_template",
+        "peekOfCode": "BATCH_SIZE = 1",
+        "detail": "config_template",
+        "documentation": {}
+    },
+    {
+        "label": "process_and_merge_data",
+        "kind": 2,
+        "importPath": "data_processing",
+        "description": "data_processing",
+        "peekOfCode": "def process_and_merge_data(crowdstrike_data, qualys_data):\n    crowdstrike_df = normalize_to_single_table(crowdstrike_data)\n    qualys_df = normalize_to_single_table(qualys_data)\n    return pd.merge(qualys_df, crowdstrike_df, left_on='name', right_on='hostname', suffixes=('_qualys', '_crowdstrike'))\ndef save_to_mongodb(collection, data):\n    for item in data:\n        try:\n            collection.insert_one(item)\n            print(f\"Inserted: {item['_id']}\")\n        except Exception as e:",
+        "detail": "data_processing",
+        "documentation": {}
+    },
+    {
+        "label": "save_to_mongodb",
+        "kind": 2,
+        "importPath": "data_processing",
+        "description": "data_processing",
+        "peekOfCode": "def save_to_mongodb(collection, data):\n    for item in data:\n        try:\n            collection.insert_one(item)\n            print(f\"Inserted: {item['_id']}\")\n        except Exception as e:\n            print(f\"Error inserting data: {e}\")",
+        "detail": "data_processing",
+        "documentation": {}
+    },
+    {
+        "label": "client",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "client = get_mongo_client()\ncrowdstrike_collection = get_mongo_collection(client, CROWDSTRIKE_COLLECTION)\nqualys_collection = get_mongo_collection(client, QUALYS_COLLECTION)\n# Create unique indexes\ncreate_unique_index(crowdstrike_collection, \"hostname\")\ncreate_unique_index(qualys_collection, \"name\")\n# Fetch and store Crowdstrike data\nskip = 0\nwhile True:\n    data = fetch_data_from_api(CROWDSTRIKE_URL, skip)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "crowdstrike_collection",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "crowdstrike_collection = get_mongo_collection(client, CROWDSTRIKE_COLLECTION)\nqualys_collection = get_mongo_collection(client, QUALYS_COLLECTION)\n# Create unique indexes\ncreate_unique_index(crowdstrike_collection, \"hostname\")\ncreate_unique_index(qualys_collection, \"name\")\n# Fetch and store Crowdstrike data\nskip = 0\nwhile True:\n    data = fetch_data_from_api(CROWDSTRIKE_URL, skip)\n    if not data:",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "qualys_collection",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "qualys_collection = get_mongo_collection(client, QUALYS_COLLECTION)\n# Create unique indexes\ncreate_unique_index(crowdstrike_collection, \"hostname\")\ncreate_unique_index(qualys_collection, \"name\")\n# Fetch and store Crowdstrike data\nskip = 0\nwhile True:\n    data = fetch_data_from_api(CROWDSTRIKE_URL, skip)\n    if not data:\n        break",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "skip",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "skip = 0\nwhile True:\n    data = fetch_data_from_api(CROWDSTRIKE_URL, skip)\n    if not data:\n        break\n    for item in data:\n        try:\n            crowdstrike_collection.insert_one(item)\n        except Exception:\n            pass",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "skip",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "skip = 0\nwhile True:\n    data = fetch_data_from_api(QUALYS_URL, skip)\n    if not data:\n        break\n    for item in data:\n        try:\n            qualys_collection.insert_one(item)\n        except Exception:\n            pass",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "crowdstrike_data",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "crowdstrike_data = list(crowdstrike_collection.find())\nqualys_data = list(qualys_collection.find())\n# Normalize and save data to MongoDB\nfinal_df = process_and_merge_data(crowdstrike_data, qualys_data)\nfinal_df.to_csv(\"streamlit/final_normal_df.csv\", index=False)\nprint(\"Normalized data saved to 'final_normal_df.csv'\")",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "qualys_data",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "qualys_data = list(qualys_collection.find())\n# Normalize and save data to MongoDB\nfinal_df = process_and_merge_data(crowdstrike_data, qualys_data)\nfinal_df.to_csv(\"streamlit/final_normal_df.csv\", index=False)\nprint(\"Normalized data saved to 'final_normal_df.csv'\")",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "final_df",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "final_df = process_and_merge_data(crowdstrike_data, qualys_data)\nfinal_df.to_csv(\"streamlit/final_normal_df.csv\", index=False)\nprint(\"Normalized data saved to 'final_normal_df.csv'\")",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "get_mongo_client",
+        "kind": 2,
+        "importPath": "mongodb_operations",
+        "description": "mongodb_operations",
+        "peekOfCode": "def get_mongo_client():\n    return MongoClient(MONGO_URI)\ndef get_mongo_collection(client, collection_name):\n    db = client[DB_NAME]\n    return db[collection_name]\ndef create_unique_index(collection, field):\n    try:\n        collection.create_index(field, unique=True)\n        print(f\"Created unique index on '{field}' in collection '{collection.name}'\")\n    except Exception as e:",
+        "detail": "mongodb_operations",
+        "documentation": {}
+    },
+    {
+        "label": "get_mongo_collection",
+        "kind": 2,
+        "importPath": "mongodb_operations",
+        "description": "mongodb_operations",
+        "peekOfCode": "def get_mongo_collection(client, collection_name):\n    db = client[DB_NAME]\n    return db[collection_name]\ndef create_unique_index(collection, field):\n    try:\n        collection.create_index(field, unique=True)\n        print(f\"Created unique index on '{field}' in collection '{collection.name}'\")\n    except Exception as e:\n        print(f\"Error creating index: {e}\")",
+        "detail": "mongodb_operations",
+        "documentation": {}
+    },
+    {
+        "label": "create_unique_index",
+        "kind": 2,
+        "importPath": "mongodb_operations",
+        "description": "mongodb_operations",
+        "peekOfCode": "def create_unique_index(collection, field):\n    try:\n        collection.create_index(field, unique=True)\n        print(f\"Created unique index on '{field}' in collection '{collection.name}'\")\n    except Exception as e:\n        print(f\"Error creating index: {e}\")",
+        "detail": "mongodb_operations",
+        "documentation": {}
+    },
+    {
+        "label": "flatten_dict",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def flatten_dict(nested_dict, parent_key='', sep='_'):\n    items = []\n    for k, v in nested_dict.items():\n        new_key = f\"{parent_key}{sep}{k}\" if parent_key else k\n        if isinstance(v, dict):\n            items.extend(flatten_dict(v, new_key, sep=sep).items())\n        elif isinstance(v, list):\n            for idx, item in enumerate(v):\n                items.extend(flatten_dict({f\"{new_key}_{idx}\": item}).items())\n        else:",
+        "detail": "utils",
+        "documentation": {}
+    },
+    {
+        "label": "normalize_to_single_table",
+        "kind": 2,
+        "importPath": "utils",
+        "description": "utils",
+        "peekOfCode": "def normalize_to_single_table(dataset):\n    normalized_data = [flatten_dict(record) for record in dataset]\n    return pd.DataFrame(normalized_data)",
+        "detail": "utils",
+        "documentation": {}
+    }
+]
